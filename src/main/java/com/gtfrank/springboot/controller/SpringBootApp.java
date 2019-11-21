@@ -14,6 +14,7 @@ import org.springframework.boot.SpringApplication;
 public class SpringBootApp {
     public static void main(String[] args) {
         //这个是springboot的入口函数
+        //test git commit
         SpringApplication.run(SpringBootApp.class,args);
     }
 }

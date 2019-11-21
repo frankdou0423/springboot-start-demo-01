@@ -22,6 +22,7 @@ public class IndexController {
     @RequestMapping(value = "/test",method = RequestMethod.GET)
     public String index(){
         //测试
+        //测试2
         return "hello";
     }
 

@@ -21,6 +21,7 @@ import java.util.Map;
 public class IndexController {
     @RequestMapping(value = "/test",method = RequestMethod.GET)
     public String index(){
+        //测试
         return "hello";
     }
 
